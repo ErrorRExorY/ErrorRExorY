@@ -11,9 +11,9 @@ I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enj
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
 
-### 🎓 Certifications & Current Learning
+### 🎓 Certifications
 - [X] Certified **iOS App Developer** (IHK)
-- [ ] Certified **Android APP** (IHK) (02.10.2025)
+- [X] Certified **Android APP** (IHK) (02.10.2025)
 
 ### 🚀 Active Projects
 - [Developer Site](https://developer.shortn.cloud) – my main development portfolio
