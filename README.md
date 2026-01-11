@@ -10,6 +10,7 @@ I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enj
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
+
 [![Tech Stack](https://github-readme-stats-alpha-five-cvmxay8obm.vercel.app/api/top-langs/?username=errorrexory&langs_count=5&theme=radical&exclude_repo=Midnight2-Binary-Src,Midnight2-Server-Src,mein_projekt,MidnightMT2-Client-Source,MidnightMT2-Server-Source,MidnightMT2-Client,openwebui-github-repo-access,litellm-mine,Archiver&layout=compact)](https://git.io/streak-stats)
 
 ## 🎓 Certifications
