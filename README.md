@@ -1,8 +1,8 @@
-## Hi there, I'm Pascal.
+# Hi there, I'm Pascal.
 
 I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enjoy building modern web applications and exploring new technologies. I started teaching myself programming languages over **8.5 years ago**, and now I am finally able to formalize my skills with certifications.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
@@ -11,12 +11,12 @@ I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enj
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
 
-### 🎓 Certifications
+## 🎓 Certifications
 - [X] Certified **iOS App Developer** (IHK)
-- [X] Certified **Android APP** (IHK) (02.10.2025)
+- [X] Certified **Android APP** (IHK)
 
-### 🚀 Active Projects
-- [Developer Site](https://developer.shortn.cloud) – my main development portfolio
+## 🚀 Active Projects
+- [Developer Site](https://dev.shortn.cloud) – my main development portfolio
 - [Shortn](https://shortn.cloud) – URL shortener project
 - [ClipsToCom](https://clipstocom.de) – Twitch clip automation from live chat to Discord
 - [AI Creator (Android App)](https://play.google.com/store/apps/details?id=com.exory.unlimited&pli=1)
@@ -24,9 +24,10 @@ I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enj
 
 
 
-### 📊 GitHub Contributions
+## 📊 GitHub Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ErrorRExorY&theme=radical)](https://git.io/streak-stats)
-
-
+### 🔥 Streak
+[![GitHub Streak](https://github-readme-streak-stats-xi-eosin.vercel.app?user=ErrorRExorY)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats-alpha-five-cvmxay8obm.vercel.app/api?username=errorrexory&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🗺️ Map
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=errorrexory&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
