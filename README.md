@@ -18,9 +18,9 @@ I am a Fullstack Developer specializing in **Next.js** and **TypeScript**. I enj
 - ✅ Certified **Android APP** (IHK)
 
 ## 🚀 Active Projects
-- [Developer Site](https://dev.shortn.cloud) – my main development portfolio
-- [ShortN](https://shortn.cloud) – URL shortener project
-- [ClipsToCom](https://clipstocom.de) – Twitch clip automation from live chat to Discord
+- [Developer Site](https://dev.shortn.info) – my main development portfolio
+- [ShortN](https://shortn.info) – URL shortener project
+- [ClipsToCom](https://clips.shortn.info) – Twitch clip automation from live chat to Discord
 - [AI Creator (Android App)](https://play.google.com/store/apps/details?id=com.exory.unlimited&pli=1)
 - [Aideon (Android App)](https://play.google.com/store/apps/details?id=com.exory.aideon)
 
